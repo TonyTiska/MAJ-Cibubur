@@ -43,14 +43,24 @@
       }
     ],
     "uniqCompNum": 11,
-    "versionPublish": "5.3.0"
+    "versionPublish": "5.3.0",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: Mediapartners-Google\n\nAllow:\n\nUser-agent: *\n\nAllow: /search\n\nAllow: /\n\nSitemap: http://themajcibubur.web.id/feeds/posts/default?orderby=UPDATED\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://themajcibubur.web.id",
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "mbrsiteDomain": "aennotnios",
+    "imageResize": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "The MAJ Residence Cibubur",
+        "meta_descr": "THE MAJ RESIDENCE Cibubur akan menjadi pusat kawasan baru yang menghadirkan hidup yang terintegrasi di jantung Cibubur sebagai sebuah komunitas baru. Kami menggabungkan Apartemen, Universitas, ruang kerja bersama, dan pusat perbelanjaan serta pusat kuliner dan tempat berkumpul yang di Desain dengan sempurna.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
