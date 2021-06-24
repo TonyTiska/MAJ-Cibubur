@@ -50,11 +50,12 @@
     "siteUrl": "https://themajcibubur.web.id",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "mbrsiteDomain": "aennotnios",
+    "mbrsiteDomain": "ed2ihb0u7y",
     "imageResize": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Ads: 374687594 -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-374687594\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'AW-374687594');\n</script>\n"
   },
   "pages": {
     "index.html": {
